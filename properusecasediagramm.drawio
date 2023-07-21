@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-07-21T06:34:22.306Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" version="21.6.3" etag="xrdCcExtMnvlsqGgod7C" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-21T06:53:48.818Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="CDKG-fwxGnFRh5BrvIdI" version="21.6.3" type="github">
   <diagram name="Page-1" id="YHU6Rgnys7c8z3kesIiD">
-    <mxGraphModel>
+    <mxGraphModel dx="1446" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6OsOoaI9JA8HRrGluOtq-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="160" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="6OsOoaI9JA8HRrGluOtq-2" value="Register" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="110" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OsOoaI9JA8HRrGluOtq-3" value="Login/Logout" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="180" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OsOoaI9JA8HRrGluOtq-4" value="Create Post/Comments" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="250" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OsOoaI9JA8HRrGluOtq-5" value="View Post/Comments" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="320" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OsOoaI9JA8HRrGluOtq-8" value="View/Edit Profile" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="530" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OsOoaI9JA8HRrGluOtq-9" value="Disable Post" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="600" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OsOoaI9JA8HRrGluOtq-10" value="Delete Post/Comments" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="390" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OsOoaI9JA8HRrGluOtq-11" value="Like/Unlike Posts" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="460" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OsOoaI9JA8HRrGluOtq-12" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Manage/Add Subeadings&lt;/span&gt;&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="810" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OsOoaI9JA8HRrGluOtq-13" value="Manage/Add Headings" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="740" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OsOoaI9JA8HRrGluOtq-14" value="Manage Users" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="670" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OsOoaI9JA8HRrGluOtq-15" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="440" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6OsOoaI9JA8HRrGluOtq-22" value="&lt;i&gt;Online Tech Forum&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="400.0000000000001" y="89.99795918367346" as="geometry" />
+        </mxCell>
+        <mxCell id="6OsOoaI9JA8HRrGluOtq-24" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="440" width="40" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
